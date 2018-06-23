@@ -9,7 +9,7 @@ class Calculador_de_imposto(object):
 
         print(imposto_calculado)
 
-if __name__ == '__main__':
+"""if __name__ == '__main__':
 
     from orcamento import Orcamento, Item
 
@@ -31,4 +31,4 @@ if __name__ == '__main__':
     calculador.realizar_calculo(orcamento, ICPP())
     calculador.realizar_calculo(orcamento, IKCV())
     print('ICPP com IKCV')
-    calculador.realizar_calculo(orcamento, ICPP(IKCV()))
+    calculador.realizar_calculo(orcamento, ICPP(IKCV()))"""
